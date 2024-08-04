@@ -66,7 +66,7 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-st.header(":red[Course] Compass 🧭",divider= 'rainbow')
+st.header(":red[Pathway] Navigator 🧭",divider= 'rainbow')
 st.write("Crafting a Personalized Roadmap Tailored to Your Course.")
 
 # field_of_study = st.text_input("Enter Field of Study", "")
